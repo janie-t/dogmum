@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["y7ht5"]); }
+
+__d("ImageReact.bs",["Image.react","ReasonReact.bs","bs_js_null_undefined"],(function a(b,c,d,e,f,g){"use strict";function h(i,j,k,l,m,n,o,p){return c("ReasonReact.bs").wrapJsForReason(c("Image.react"),{className:c("bs_js_null_undefined").from_opt(i),alt:c("bs_js_null_undefined").from_opt(j),src:c("bs_js_null_undefined").from_opt(k),height:c("bs_js_null_undefined").from_opt(l),title:c("bs_js_null_undefined").from_opt(m),width:c("bs_js_null_undefined").from_opt(n),style:c("bs_js_null_undefined").from_opt(o)},p)}g.make=h}),null);
